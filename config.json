@@ -1,14 +1,14 @@
 {
   "redirect": false,
-  "url": "https://google.com",
+  "url": "https://brazino777.com",
   "buttons": [
     {
-      "label": "VK",
-      "url": "https://vk.com"
+      "label": "PLINKO",
+      "url": "https://brazino777.com/plinko"
     },
     {
-      "label": "YouTube",
-      "url": "https://youtube.com"
+      "label": "BALLOON",
+      "url": "https://brazino777.com/balloon"
     }
   ]
 }
