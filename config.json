@@ -1,18 +1,18 @@
 {
-  "redirect": true,
-  "url": "https://cdn.htmlgames.com/MarbleMerge/index.html",
+  "redirect": false,
+  "url": "https://brazino777.by",
   "buttons": [
     {
       "label": "Plinko",
-      "url": "https://example.com/plinko"
+      "url": "https://brazino777.by/en/demo/game/brazino-plinko-2284"
     },
     {
       "label": "Balloon",
-      "url": "https://example.com/balloon"
+      "url": "https://youtube.com"
     },
     {
       "label": "Chicken Road",
-      "url": "https://example.com/chicken"
+      "url": "https://google.com"
     }
   ]
 }
