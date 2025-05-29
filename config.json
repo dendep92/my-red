@@ -4,15 +4,15 @@
   "buttons": [
     {
       "label": "Plinko",
-      "url": "https://youtube.com"
-    },
-    {
-      "label": "Balloon",
       "url": "https://google.com"
     },
     {
-      "label": "Chicken Road",
+      "label": "Balloon",
       "url": "https://facebook.com"
+    },
+    {
+      "label": "Chicken Road",
+      "url": "https://youtube.com"
     }
   ]
 }
