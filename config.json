@@ -7,8 +7,12 @@
       "url": "https://youtube.com"
     },
     {
-      "label": "BALLOON",
+      "label": "Balloon",
       "url": "https://google.com"
+    },
+    {
+      "label": "Chicken Road",
+      "url": "https://facebook.com"
     }
   ]
 }
