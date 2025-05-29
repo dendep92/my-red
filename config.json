@@ -4,15 +4,15 @@
   "buttons": [
     {
       "label": "Plinko",
-      "url": "https://google.com"
+      "url": "https://example.com/plinko"
     },
     {
       "label": "Balloon",
-      "url": "https://facebook.com"
+      "url": "https://example.com/balloon"
     },
     {
       "label": "Chicken Road",
-      "url": "https://youtube.com"
+      "url": "https://example.com/chicken"
     }
   ]
 }
