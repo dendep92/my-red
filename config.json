@@ -1,4 +1,8 @@
 {
   "redirect": true,
-  "url": "https://brazino777.by/en/"
+  "url": "https://brazino777.by/en/",
+  "buttons": [
+    { "label": "Чат", "url": "https://example.com/chat" },
+    { "label": "Промо", "url": "https://example.com/promo" }
+  ]
 }
