@@ -1,8 +1,14 @@
 {
-  "redirect": true,
-  "url": "https://brazino777.by/en/",
+  "redirect": false,
+  "url": "https://google.com",
   "buttons": [
-    { "label": "plinko", "url": "https://youtube.com" },
-    { "label": "balloon", "url": "https://google.com" }
+    {
+      "label": "VK",
+      "url": "https://vk.com"
+    },
+    {
+      "label": "YouTube",
+      "url": "https://youtube.com"
+    }
   ]
 }
