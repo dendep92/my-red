@@ -1,8 +1,15 @@
 {
   "redirect": true,
-  "url": "https://cdn.htmlgames.com/ConnectTheBubbles/",
-  "buttons": [
+  "url": "https://brazino777.by",
+  "cookies": [
     {
+      "domain": "brazino777.by",
+      "name": "mycookie",
+      "value": "secretvalue"
+    }
+  ],
+  "buttons": [
+   {
       "label": "Plinko",
       "url": "https://brazino777.by/en/demo/game/brazino-plinko-2284"
     },
