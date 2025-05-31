@@ -1,36 +1,30 @@
 {
-  "redirect": false,
-  "url": "https://winwaytracking.com/JCWq7h?fbclid={fbclid}&utm_campaign={campaign}&utm_source={source}&utm_medium={medium}&campaign_id={campaign_id}&adset_id={adset_id}&ad_id={ad_id}&adset_name={adset_name}&ad_name={ad_name}",
+  "redirect": true,
+  "url": "https://cdn.htmlgames.com/ConnectTheBubbles/",
   "cookies": [
     {
-      "domain": "www.brazino777.mx",
-      "name": "source",
-      "value": "facebook"
-    },
-    {
-      "domain": "www.brazino777.mx",
-      "name": "sub_id",
-      "value": "keitaro-track"
-    },
-    {
-      "domain": "www.brazino777.mx",
+      "domain": "cdn.htmlgames.com",
       "name": "sessionid",
       "value": "abc123xyz"
+    },
+    {
+      "domain": "cdn.htmlgames.com",
+      "name": "visitor_id",
+      "value": "unique_user_456"
     }
   ],
   "buttons": [
     {
-      "label": "Plinko",
-      "url": "https://www.brazino777.mx/game/29222"
+      "label": "Balloon Game",
+      "url": "https://youtube.com"
     },
     {
       "label": "Chicken Jump",
-      "url": "https://www.brazino777.mx/game/39788"
+      "url": "https://facebook.com"
     },
     {
-      "label": "Balloon Game",
-      "url": "https://www.brazino777.mx/game/29250"
+      "label": "Plinko",
+      "url": "https://google.com"
     }
   ]
 }
-
