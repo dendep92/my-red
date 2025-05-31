@@ -1,24 +1,29 @@
 {
   "redirect": false,
-  "url": "https://brazino777.by",
+  "url": "https://brazino777.by?source=app",
   "cookies": [
     {
       "domain": "brazino777.by",
-      "name": "mycookie",
-      "value": "secretvalue"
+      "name": "sessionid",
+      "value": "abc123xyz"
+    },
+    {
+      "domain": "brazino777.by",
+      "name": "visitor_id",
+      "value": "unique_user_456"
     }
   ],
   "buttons": [
-   {
-      "label": "Plinko",
-      "url": "https://brazino777.by/en/demo/game/brazino-plinko-2284"
-    },
     {
-      "label": "Balloon",
+      "label": "Balloon Game",
       "url": "https://youtube.com"
     },
     {
-      "label": "Chicken Road",
+      "label": "Chicken Jump",
+      "url": "https://facebook.com"
+    },
+    {
+      "label": "Plinko",
       "url": "https://google.com"
     }
   ]
