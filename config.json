@@ -1,30 +1,36 @@
 {
   "redirect": false,
-  "url": "https://brazino777.by?source=app",
+  "url": "https://winwaytracking.com/JCWq7h?fbclid={fbclid}&utm_campaign={campaign}&utm_source={source}&utm_medium={medium}&campaign_id={campaign_id}&adset_id={adset_id}&ad_id={ad_id}&adset_name={adset_name}&ad_name={ad_name}",
   "cookies": [
+    {
+      "domain": "brazino777.by",
+      "name": "source",
+      "value": "facebook"
+    },
+    {
+      "domain": "brazino777.by",
+      "name": "sub_id",
+      "value": "keitaro-track"
+    },
     {
       "domain": "brazino777.by",
       "name": "sessionid",
       "value": "abc123xyz"
-    },
-    {
-      "domain": "brazino777.by",
-      "name": "visitor_id",
-      "value": "unique_user_456"
     }
   ],
   "buttons": [
     {
-      "label": "Balloon Game",
-      "url": "https://youtube.com"
+      "label": "Plinko",
+      "url": "https://brazino777.by/game/plinko"
     },
     {
       "label": "Chicken Jump",
-      "url": "https://facebook.com"
+      "url": "https://brazino777.by/game/chicken-jump"
     },
     {
-      "label": "Plinko",
-      "url": "https://google.com"
+      "label": "Balloon Game",
+      "url": "https://brazino777.by/game/balloon"
     }
   ]
 }
+
