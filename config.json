@@ -1,14 +1,14 @@
 {
   "redirect": true,
-  "url": "https://cdn.htmlgames.com/ConnectTheBubbles/",
+  "url": "https://google.com",
   "cookies": [
     {
-      "domain": "cdn.htmlgames.com",
+      "domain": "google.com",
       "name": "sessionid",
       "value": "abc123xyz"
     },
     {
-      "domain": "cdn.htmlgames.com",
+      "domain": "google.com",
       "name": "visitor_id",
       "value": "unique_user_456"
     }
