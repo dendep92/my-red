@@ -1,14 +1,14 @@
 {
   "redirect": true,
-  "url": "https://google.com",
+  "url": "https://gamefreehub.com/ru/games/balloonpop",
   "cookies": [
     {
-      "domain": "google.com",
+      "domain": "gamefreehub.com/ru/games/balloonpop",
       "name": "sessionid",
       "value": "abc123xyz"
     },
     {
-      "domain": "google.com",
+      "domain": "gamefreehub.com/ru/games/balloonpop",
       "name": "visitor_id",
       "value": "unique_user_456"
     }
