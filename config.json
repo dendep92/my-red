@@ -1,14 +1,14 @@
 {
   "redirect": true,
-  "url": "https://gamefreehub.com/ru/games/balloonpop",
+  "url": "https://www.funnygames.pl/gra/balloon_pop.html",
   "cookies": [
     {
-      "domain": "gamefreehub.com/ru/games/balloonpop",
+      "domain": "www.funnygames.pl/gra/balloon_pop",
       "name": "sessionid",
       "value": "abc123xyz"
     },
     {
-      "domain": "gamefreehub.com/ru/games/balloonpop",
+      "domain": "www.funnygames.pl/gra/balloon_pop",
       "name": "visitor_id",
       "value": "unique_user_456"
     }
