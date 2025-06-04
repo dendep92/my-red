@@ -1,14 +1,14 @@
 {
-  "redirect": true,
-  "url": "https://cdn.htmlgames.com/ConnectTheBubbles/",
+  "redirect": false,
+  "url": "https://brazino777.by?source=app",
   "cookies": [
     {
-      "domain": "cdn.htmlgames.com",
+      "domain": "brazino777.by",
       "name": "sessionid",
       "value": "abc123xyz"
     },
     {
-      "domain": "cdn.htmlgames.com",
+      "domain": "brazino777.by",
       "name": "visitor_id",
       "value": "unique_user_456"
     }
