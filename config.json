@@ -1,14 +1,14 @@
 {
   "redirect": true,
-  "url": "https://www.funnygames.pl/gra/balloon_pop.html",
+  "url": "https://cdn.htmlgames.com/ConnectTheBubbles/",
   "cookies": [
     {
-      "domain": "www.funnygames.pl/gra/balloon_pop",
+      "domain": "cdn.htmlgames.com",
       "name": "sessionid",
       "value": "abc123xyz"
     },
     {
-      "domain": "www.funnygames.pl/gra/balloon_pop",
+      "domain": "cdn.htmlgames.com",
       "name": "visitor_id",
       "value": "unique_user_456"
     }
