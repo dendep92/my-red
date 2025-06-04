@@ -16,15 +16,19 @@
   "buttons": [
     {
       "label": "Balloon Game",
-      "url": "https://youtube.com"
+      "url": "https://youtube.com",
+      "icon": "https://raw.githubusercontent.com/dendep92/my-red/main/icons/ic_balloon.png"
     },
     {
-      "label": "Chicken Jump",
-      "url": "https://facebook.com"
+      "label": "Chicken Road",
+      "url": "https://facebook.com",
+      "icon": "https://raw.githubusercontent.com/dendep92/my-red/main/icons/ic_chicken.png"
     },
     {
       "label": "Plinko",
-      "url": "https://google.com"
+      "url": "https://google.com",
+      "icon": "https://raw.githubusercontent.com/dendep92/my-red/main/icons/ic_plinko.png"
     }
   ]
 }
+
