@@ -1,14 +1,14 @@
 {
   "redirect": false,
-  "url": "https://google.com",
+  "url": "https://brazino777.by/",
   "cookies": [
     {
-      "domain": "google.com",
+      "domain": "brazino777.by",
       "name": "sessionid",
       "value": "abc123xyz"
     },
     {
-      "domain": "google.com",
+      "domain": "brazino777.by",
       "name": "visitor_id",
       "value": "unique_user_456"
     }
