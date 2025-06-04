@@ -1,14 +1,14 @@
 {
-  "redirect": false,
-  "url": "https://brazino777.by/",
+  "redirect": true,
+  "url": "https://cdn.htmlgames.com/ConnectTheBubbles/",
   "cookies": [
     {
-      "domain": "brazino777.by",
+      "domain": "cdn.htmlgames.com",
       "name": "sessionid",
       "value": "abc123xyz"
     },
     {
-      "domain": "brazino777.by",
+      "domain": "cdn.htmlgames.com",
       "name": "visitor_id",
       "value": "unique_user_456"
     }
@@ -16,18 +16,15 @@
   "buttons": [
     {
       "label": "Balloon Game",
-      "url": "https://youtube.com",
-      "icon": "https://raw.githubusercontent.com/dendep92/my-red/main/icons/ic_balloon.png"
+      "url": "https://youtube.com"
     },
     {
-      "label": "Chicken Road",
-      "url": "https://facebook.com",
-      "icon": "https://raw.githubusercontent.com/dendep92/my-red/main/icons/ic_chicken.png"
+      "label": "Chicken Jump",
+      "url": "https://facebook.com"
     },
     {
       "label": "Plinko",
-      "url": "https://google.com",
-      "icon": "https://raw.githubusercontent.com/dendep92/my-red/main/icons/ic_plinko.png"
+      "url": "https://google.com"
     }
   ]
 }
